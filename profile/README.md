@@ -1,1 +1,1 @@
-![hstd](./hstd.avif)
+![hstd](./hstd.svg)
